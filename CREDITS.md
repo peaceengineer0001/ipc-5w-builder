@@ -9,9 +9,9 @@ The IPC (Inductive Pulse Charging) technology and educational framework are buil
 ## Mentors & Influences
 
 - **Peter Lindemann, D.Sc.** — Researcher and educator in advanced energy systems, whose work on radiant energy and motor design principles informed core IPC concepts.
-- **Aaron Murakami** — Energy researcher, educator, and advocate for open-source energy technology sharing.
+- **Paul Babcock** — Legendary Industrial Eletrical Engineer and New Energy researcher, educator, and advocate for open-source energy technology sharing.
 - **John C. Bedini** (1951–2016) — Pioneer of pulse charging technology and self-charging battery systems. His foundational work on inductor-based energy recovery is at the heart of IPC theory.
-- **Robert Adams** (1920–2006) — New Zealand inventor whose Adams Motor demonstrated principles of back-EMF energy recovery that underpin modern IPC designs.
+- **Andrii Slobodian** (1982–2020) —Founder and CTO of Infinity SAV, inventor of magnetic generator motor demonstrated self-powering principles of back-EMF energy recovery that underpin modern IPC designs.
 
 ## Scientific Foundations
 
